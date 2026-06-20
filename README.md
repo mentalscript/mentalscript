@@ -128,11 +128,11 @@ Prometheus
 
 <div align="center">
 
-<a href="https://t.me/k1siv">
+<a href="https://t.me/mentalcodes">
 <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="mailto:contact@k1siv.ru">
+<a href="mailto:aloxsapport228@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
