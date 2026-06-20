@@ -1,8 +1,8 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8A2BE2&text=MENTALSCRIPT&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20•%20Backend%20Engineer%20•%20DevOps&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:1a1a1a&text=MENTALSCRIPT&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20•%20Backend%20Engineer%20•%20DevOps&descAlignY=58&descColor=cccccc" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=80&lines=Building+High-Load+Systems;Backend+%2B+Frontend+Development;Cloud+Infrastructure+Engineer;Node.js+%7C+Go+%7C+Rust+%7C+React;Always+Creating+Something+Interesting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Building+High-Load+Systems;Backend+Architecture;Cloud+Infrastructure;Microservices+Engineering;Performance+Optimization" />
 
 </div>
 
@@ -10,222 +10,142 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mentalscript&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=8A2BE2&title_color=8A2BE2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mentalscript&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=d9d9d9"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalscript&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalscript&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d9d9d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mentalscript&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mentalscript&theme=github-dark-blue&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 
 </div>
 
 ---
 
-# <img width="28" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png"> About Me
+# ⚡ MENTAL.EXE
 
 ```yaml
 Name: Danila
-Nickname: Mental
-Age: 16
+Alias: Mental
 
 Role:
   - FullStack Developer
   - Backend Engineer
   - DevOps Engineer
 
-Specialization:
-  - High Load Applications
-  - Microservices
-  - Cloud Infrastructure
-  - Automation Systems
-  - Discord Ecosystem
-
-Current Focus:
-  - Backend Architecture
+Focus:
   - Distributed Systems
-  - Performance Optimization
+  - High Load Applications
+  - Cloud Infrastructure
+  - Automation
 ```
 
 ---
 
-# ⚡ Tech Spectrum
-
-## 🧠 Backend
+# 🧠 Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,go,rust,cpp,python,java,kotlin,cs&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,go,rust,cpp,python,java,kotlin,cs&theme=dark"/>
 </p>
 
-<div align="center">
+```txt
+Node.js • Bun • NestJS
+Fastify • Express • Ruby
 
-```diff
-+ Node.js
-+ Bun
-+ NestJS
-+ Fastify
-+ Express
-+ Ruby
+Go • Rust • C++
 
-+ Go
-+ Rust
-+ C++
-
-+ Python
-+ Java
-+ Kotlin
-+ C#
+Python • Java
+Kotlin • C#
 ```
-
-</div>
 
 ---
 
-## 🎨 Frontend
+# 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind&theme=dark"/>
 </p>
 
-<div align="center">
+```txt
+React • Next.js
+Vue.js • Angular
 
-```yaml
-Frameworks:
-  - React
-  - Next.js
-  - Vue.js
-  - Angular
-
-Languages:
-  - TypeScript
-  - JavaScript
-
-Styling:
-  - TailwindCSS
-  - CSS3
+TypeScript
+JavaScript
 ```
-
-</div>
 
 ---
 
-## 🗄 Database Ecosystem
+# 🗄 Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark"/>
 </p>
 
-<div align="center">
+```txt
+PostgreSQL
+MongoDB
+MySQL
+SQLite
 
-```yaml
-SQL:
-  - PostgreSQL
-  - MySQL
-  - SQLite
-
-NoSQL:
-  - MongoDB
-  - Redis
-  - Apache Cassandra
+Redis
+Cassandra
 ```
-
-</div>
 
 ---
 
-## ☁ Infrastructure & DevOps
+# ☁ Infrastructure
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,grafana,prometheus"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,grafana,prometheus&theme=dark"/>
 </p>
 
+```txt
+Docker
+Kubernetes
+
+Nginx
+Traefik
+Caddy
+
+Grafana
+Prometheus
+```
+
+---
+
+# 📈 Activity
+
 <div align="center">
 
-```yaml
-Containers:
-  - Docker
-  - Kubernetes
-
-Web Servers:
-  - Nginx
-  - Traefik
-  - Caddy
-
-Monitoring:
-  - Grafana
-  - Prometheus
-
-CI/CD:
-  - GitHub Actions
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mentalscript&theme=github-dark&bg_color=000000&hide_border=true&line=ffffff&point=ffffff&area=true"/>
 
 </div>
 
 ---
 
-# 📈 Development Activity
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mentalscript&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mentalscript&theme=onestar&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mentalscript&theme=radical"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mentalscript&theme=radical&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 💜 Featured Projects
-
-## 🚀 MENTAL
-
-```yaml
-Type: FullStack Platform
-Status: Production
-Stack:
-  - Node.js
-  - TypeScript
-  - PostgreSQL
-  - Redis
-```
-
-## 🐈 DockCat
-
-```yaml
-Type: Telegram Service
-Status: Active Development
-Stack:
-  - Node.js
-  - MongoDB
-  - Docker
-```
-
----
-
-# 🌐 Contact
+# 🌐 Contacts
 
 <div align="center">
 
 <a href="https://t.me/k1siv">
-  <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:contact@k1siv.ru">
-  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -234,14 +154,14 @@ Stack:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mentalscript&color=8A2BE2&style=for-the-badge"/>
+### MENTALSCRIPT
 
-<br><br>
+```txt
+Building Systems.
+Creating Experiences.
+Solving Problems.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=footer"/>
-
-### ⚡ MENTALSCRIPT
-
-*Building systems. Creating experiences. Solving problems.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1a1a1a&section=footer"/>
 
 </div>
