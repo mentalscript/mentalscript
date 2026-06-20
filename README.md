@@ -124,18 +124,6 @@ Prometheus
 
 </div>
 
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mentalscript&theme=onestar&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🌐 Contacts
 
 <div align="center">
