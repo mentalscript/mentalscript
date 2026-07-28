@@ -5,15 +5,3 @@
 </div>
 
 ---
-
-# 👨‍💻 About
-
-```yaml
-Name: Danila
-Alias: Mental
-Location: Russia
-
-Role:
-  - Backend Engineer
-  - DevOps Engineer
-  - System Architect
