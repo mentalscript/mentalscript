@@ -17,9 +17,3 @@ Role:
   - Backend Engineer
   - DevOps Engineer
   - System Architect
-
-Stack:
-  Backend: Node.js, Go, Rust, Python, Java
-  Frontend: React, TypeScript
-  DB: PostgreSQL, MongoDB, Redis
-  Infra: Docker, K8s, Nginx
