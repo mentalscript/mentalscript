@@ -1,42 +1,91 @@
-#
-<div>
-<img src="https://static.wikia.nocookie.net/gensin-impact/images/2/23/Columbina_Card.png" width="260" align="right" style="border-radius: 14px; margin-left: 20px;" />
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:090A0F,50:1E112A,100:4C1D95&text=About%20Me&fontColor=F3E8FF&fontSize=38&fontAlignY=45&animation=fadeIn" width="480" />
-<br/>
-<br/>
-
-- 🇷🇺 Full-Stack Developer & Client Architect from Russia <img src="https://i.imgur.com/a2KhTyR.gif" alt="." width="16" height="16" />
-- 🎮 I enjoy playing Gacha Games, Rhythm Games, Open-world RPGs *(Columbina, Sandrone & Citlali main!)* 🌸
-  ↳ **Favorite games:** Genshin Impact, Honkai: Star Rail, Muse Dash, Osu!
-
-- I'm quite skilled with <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> **TypeScript**, <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> **JavaScript** and <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> **Node.js**
-- I can read and understand code written in <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> **Python**, <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> **C#**, <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> **C++** and <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" /> **Electron**
-- I’m currently exploring <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> **Go** and <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> **Rust**
-
-<br/>
-<br/>
-
-<img src="https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sandrone_Card.png" width="260" align="right" style="border-radius: 14px; margin-left: 20px;" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:090A0F,50:1E112A,100:4C1D95&text=Repositories&fontColor=F3E8FF&fontSize=38&fontAlignY=45&animation=fadeIn" width="480" />
-<br/>
-<br/>
-
-- 🟦 **[WhiteCord](https://github.com/WhiteCord/WhiteCord)**
-  A custom high-performance Discord desktop modification with native Telegram Web integration, stream privacy & custom packs
-- 🔮 **[mentalscript](https://github.com/mentalscript/mentalscript)**
-  Personal profile repository & custom developer tools
-
-<br/>
-<br/>
-
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Citlali_Card.png" width="280" style="border-radius:14px;" alt="Citlali" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mentalscript&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0E15&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalscript&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0E15&title_color=C084FC&text_color=E9D5FF" width="48%" />
+
+<!-- ИНТЕРАКТИВНЫЙ БАННЕР ШАПКИ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0e15,40:1f112e,100:4a1b6d&text=MENTALSCRIPT&fontColor=f3e8ff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=%E2%9C%A7%20Full-Stack%20Developer%20%7C%20Desktop%20Architect%20%7C%20Reverse%20Engineering%20%E2%9C%A7&descAlignY=62&descSize=18" width="100%" />
+
+<br/>
+
+### 🕊️ Columbina • ⚙️ Sandrone • 🔮 Citlali
+
 </div>
 
+---
+
+### 🌸 Обо мне / About Me
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <br/>
+      <ul>
+        <li><b>Разработчик из России 🇷🇺</b> — занимaюсь проектированием десктопного софта, реверс-инжинирингом и веб-платформами.</li>
+        <li><b>Основные технологии:</b> TypeScript, Node.js, C++, C#, Python, Electron, React.</li>
+        <li><b>Увлечения:</b> Фанат персонажей Genshin Impact (<i>Коломбина, Сандрон, Ситлали</i>), обожаю ритм-игры (Osu!, Muse Dash) и гача-вселенные.</li>
+        <li><b>Текущий фокус:</b> Создание модификаций для десктоп-клиентов (<i>WhiteCord</i>) и разработка высоконагруженных интерфейсов.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://static.wikia.nocookie.net/gensin-impact/images/2/23/Columbina_Card.png" width="220" style="border-radius:14px; box-shadow: 0 4px 20px rgba(147, 51, 234, 0.3);" alt="Columbina" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 👑 Персонажи / Featured Waifus
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://static.wikia.nocookie.net/gensin-impact/images/2/23/Columbina_Card.png" width="100%" style="border-radius:10px;" />
+      <br/><b>🕊️ Коломбина (Damselette)</b>
+      <br/><sub>3-я из Предвестников Фатуи</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sandrone_Card.png" width="100%" style="border-radius:10px;" />
+      <br/><b>⚙️ Сандрон (Marionette)</b>
+      <br/><sub>7-я из Предвестников Фатуи</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Citlali_Card.png" width="100%" style="border-radius:10px;" />
+      <br/><b>🔮 Ситлали (Citlali)</b>
+      <br/><sub>Шаманка из Ночного Ветра</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Технологический стек
+
+<div align="center">
+
+#### Языки & Фреймворки
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Проекты
+
+| Проект | Описание | Технологии |
+| :--- | :--- | :--- |
+| 🟦 **[WhiteCord](https://github.com/WhiteCord/WhiteCord)** | Кастомный клиент Discord с интеграцией Telegram Web, защитой стрима и кастомными паками | `TypeScript` `Electron` `C#` `React` |
+| 🔮 **[mentalscript](https://github.com/mentalscript/mentalscript)** | Профиль пользователя и набор персональных утилит разработки | `Markdown` `HTML` `TypeScript` |
+
+---
+
+### 📊 Статистика профиля
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mentalscript&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0E15&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalscript&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0E15&title_color=C084FC&text_color=E9D5FF" width="49%" />
 </div>
