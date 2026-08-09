@@ -1,13 +1,13 @@
 #
 <div>
-<img src="images/columbina_face.png" width="300" align="right" style="border-radius: 50%;" />
+<img src="images/columbina_tenor.gif" width="300" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(168, 85, 247, 0.4); margin-left: 20px;" />
 <br/>
 <img src="images/about_me.png" width="500" />
 <br/>
 <br/>
 
 - 🇷🇺 **Full-Stack Developer & Desktop Client Architect from Russia** <img src="https://i.imgur.com/a2KhTyR.gif" alt="." width="16" height="16" />
-- 🎮 I enjoy programming, playing Genshin Impact, Rhythia, watching Twitch streams, and gacha games *(Columbina, Sandrone & Citlali main!)* 🌸
+- 🎮 I enjoy programming, playing Genshin Impact (*Columbina, Sandrone & Citlali main!*), Rhythia, watching Twitch streams, and gacha games 🌸
   ↳ **Favorite games:** Genshin Impact, Honkai: Star Rail, Muse Dash, Osu!
 
 - I'm quite skilled with <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> **TypeScript**, <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> **JavaScript** and <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> **Node.js**
@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<img src="images/citlali_full.png" width="320" align="right" style="border-radius: 16px;" />
+<img src="images/citlali_tenor.gif" width="320" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(192, 132, 252, 0.4); margin-left: 20px;" />
 <img src="images/repository.png" width="500" />
 <br/>
 <br/>
@@ -28,6 +28,13 @@
   Personal profile repository & custom developer tools
 
 <br/>
+<br/>
+<br/>
+
+<div align="center">
+  <img src="images/columbina_sandrone_hug.gif" width="480" style="border-radius: 16px; border: 2px solid #a855f7; box-shadow: 0 4px 20px rgba(168, 85, 247, 0.3);" />
+</div>
+
 <br/>
 <br/>
 
