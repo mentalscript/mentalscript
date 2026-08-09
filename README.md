@@ -1,9 +1,9 @@
 #
 <div>
-<img src="images/columbina_tenor.gif" width="300" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(168, 85, 247, 0.4); margin-left: 20px;" />
+<img src="images/columbina_tenor.gif" width="280" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(168, 85, 247, 0.4); margin-left: 20px;" />
 <br/>
-<img src="images/about_me.png" width="500" />
-<br/>
+
+### 🌸 About Me
 <br/>
 
 - 🇷🇺 **Full-Stack Developer & Desktop Client Architect from Russia** <img src="https://i.imgur.com/a2KhTyR.gif" alt="." width="16" height="16" />
@@ -17,9 +17,9 @@
 <br/>
 <br/>
 
-<img src="images/citlali_tenor.gif" width="320" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(192, 132, 252, 0.4); margin-left: 20px;" />
-<img src="images/repository.png" width="500" />
-<br/>
+<img src="images/citlali_tenor.gif" width="300" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(192, 132, 252, 0.4); margin-left: 20px;" />
+
+### 🚀 Repositories
 <br/>
 
 - 🟦 **[WhiteCord](https://github.com/WhiteCord/WhiteCord)**
@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <img src="images/columbina_sandrone_hug.gif" width="480" style="border-radius: 16px; border: 2px solid #a855f7; box-shadow: 0 4px 20px rgba(168, 85, 247, 0.3);" />
+  <img src="images/columbina_sandrone_hug.gif" width="460" style="border-radius: 16px; border: 2px solid #a855f7; box-shadow: 0 4px 20px rgba(168, 85, 247, 0.3);" />
 </div>
 
 <br/>
