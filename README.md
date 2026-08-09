@@ -25,7 +25,7 @@
 
 - 🟦 **[WhiteCord](https://whitecord.site)**
   A custom high-performance Discord desktop mod with native Telegram Web integration, stream privacy & custom packs
-- 📦 **[@whitecord/sdk](https://whitecord.site/sdk)**
+- 📦 **[@whitecord/sdk](https://github.com/mentalscript/whitecord-sdk)**
   Official plugin development SDK & extension building toolkit for WhiteCord
 
 <br/>
