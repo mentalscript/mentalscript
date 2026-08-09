@@ -19,13 +19,13 @@
 
 <img src="images/citlali_tenor.gif" width="300" align="right" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(192, 132, 252, 0.4); margin-left: 20px;" />
 
-### 🚀 Repositories
+### 🚀 Projects
 <br/>
 
-- 🟦 **[WhiteCord](https://github.com/WhiteCord/WhiteCord)**
+- 🟦 **[WhiteCord](https://whitecord.site)**
   A custom high-performance Discord desktop mod with native Telegram Web integration, stream privacy & custom packs
-- 🔮 **[mentalscript](https://github.com/mentalscript/mentalscript)**
-  Personal profile repository & custom developer tools
+- 📦 **[@whitecord/sdk](https://whitecord.site/sdk)**
+  Official plugin development SDK & extension building toolkit for WhiteCord
 
 <br/>
 <br/>
