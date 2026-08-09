@@ -3,10 +3,6 @@
 <!-- ИНТЕРАКТИВНЫЙ БАННЕР ШАПКИ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0e15,40:1f112e,100:4a1b6d&text=MENTALSCRIPT&fontColor=f3e8ff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=%E2%9C%A7%20Full-Stack%20Developer%20%7C%20Desktop%20Architect%20%7C%20Reverse%20Engineering%20%E2%9C%A7&descAlignY=62&descSize=18" width="100%" />
 
-<br/>
-
-### 🕊️ Columbina • ⚙️ Sandrone • 🔮 Citlali
-
 </div>
 
 ---
